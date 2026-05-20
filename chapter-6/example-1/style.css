@@ -1,0 +1,12 @@
+body{
+    background-color: pink;
+
+}
+p{
+    background-color: blue;
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+    font-display: swap;
+    text-decoration: underline;
+    color: white;
+}
