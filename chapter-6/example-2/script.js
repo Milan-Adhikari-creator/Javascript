@@ -1,0 +1,11 @@
+let div=document.querySelector("div");
+console.log(div);
+let id=div.getAttribute("id");
+console.log(id); 
+let name=div.getAttribute("name");
+console.log(name);
+div.style.backgroundColor="green";
+div.style.backgroundColor="red";
+div.innerText="Hello!";
+ div.style.fontSize="26px";
+//  div.style.visibility="hidden";
